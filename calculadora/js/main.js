@@ -3,6 +3,7 @@ const inputNumber1 = document.querySelector('[id="number1"]');
 
 inputNumber1.addEventListener('change', handleInputNumberChange);
 
+
 //Entrada Numero 2
 const inputNumber2 = document.querySelector('[id="number2"]');
 
